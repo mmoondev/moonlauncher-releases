@@ -1,0 +1,9 @@
+{
+  "android": {
+    "versionCode": 3,
+    "versionName": "3.1",
+    "url": "https://github.com/mmoondev/moonlauncher-releases/releases/download/3.1/Moonchare-3.1.apk",
+    "sha256": "c291b0d18b9e7786129039103ec0c7c7946628545488eafa09658b3bf4367ff8",
+    "notes": ""
+  }
+}
